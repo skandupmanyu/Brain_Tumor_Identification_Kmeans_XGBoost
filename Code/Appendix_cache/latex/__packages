@@ -1,0 +1,8 @@
+base
+magrittr
+imager
+xgboost
+lattice
+ggplot2
+caret
+pROC
